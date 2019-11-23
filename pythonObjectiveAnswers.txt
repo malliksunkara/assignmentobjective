@@ -1,0 +1,54 @@
+1) a -- Bypassing the given list to the iter() function
+2) b -- generator function
+3) b -- 1 9
+4) d -- all of the above
+5) d -- 50
+6) c -- I got decorated
+        I am ordinary
+7) d - @property
+8) b - getter(), setter() and delete()
+9) d - none of the above
+10) a -- Print Hello() is a function, and a is a variable. None of them are objects
+11) c -- a=20 ( dont have option in a=20)
+12) a -- A class is a blueprint for the object
+13) c -- java
+14) c -- initializes all the data attributes to zero when called
+15) b -- 1 1
+16) c 
+17) b -- multiple inheritance
+18) d -- all the above
+19) b -- 4 6
+20) c -- opens the file for appending, at the end of file
+21) b -- opens test.txt file for reading only
+22) b 
+23) d -- all the above
+24) c -- prints all the directories and files inside the given directory
+25) d -- all the above
+26) d -- none of the above
+27) b -- 2.0
+28) c -- prints Two if the TypeError or zeroDivisionError exception occurs.
+29) b and c
+30) b and c
+31) b -- pytho is awesome
+32) b - None object
+33) b -- Hello ('Frodo', 'Sauron')
+34) b - A function that calls itself
+35) c -- 25
+36) a -- 10
+37) c
+38) a -- .operator
+39) b- (1,3,6)
+40) d -- syntax error
+41) c -- it depends on the expression used
+42) a -- 2 1
+43) both loops can have optional else statement
+44) b -- 10
+45) c -- 4 is printed infinitely until the program closes
+46) b -- yes, for loop is more pythonic choice
+47) d - all of the above
+48) a -- PYTHON
+49) a -- Python interpreter- It ignores the “pass” statement like comments.
+50) c -- Any character such as the comma (,) or tab (\t) that is used to separate the column data
+51) a -- the column names of the data
+52) a --
+53) b - the row data as a list
